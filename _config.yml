@@ -37,9 +37,8 @@ paginate_path: blog/page:num
 navigation_header:
   Home: /
   Research: /research/
-  Research: /research/
   Publications: /publications/
-  Blog: /blog/
+  #Blog: /blog/
 
 # Footer nav
 navigation_footer:

@@ -1,8 +1,11 @@
 ---
-title: Projects
-feature_text: |
-  A demo of Markdown and HTML includes
-feature_image: "https://picsum.photos/2560/600?image=873"
+feature_text:
+  Current Research
 excerpt: "A demo of Markdown and HTML includes"
-aside: true
+aside: false
 ---
+
+
+* Wetlandscape Biogeochemistry
+* Persistence of Contaminants in Hyporheic Zones
+* Nutrient Cycling in Agroecosystems

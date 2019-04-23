@@ -1,7 +1,6 @@
 ---
 feature_text: |
   ## Current Research
-excerpt: "A demo of Markdown and HTML includes"
 aside: false
 ---
 

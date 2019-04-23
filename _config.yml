@@ -26,6 +26,8 @@ title: 'Frederick Cheng'
 description: 'This is my new website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+description: "Hello darkness my old friend"
+email: "fycheng@uwaterloo.ca"
 
 # Pagination
 paginate: 5
@@ -51,3 +53,9 @@ collections:
     feature_text: |
       Welcome to my blog
     feature_image: "https://picsum.photos/2560/600?image=866"
+    
+social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
+  Twitter: https://twitter.com/phred_cheng
+  GitHub: https://github.com/phred-y-c
+  link: https://darn.es
+RSS: /feed.xml

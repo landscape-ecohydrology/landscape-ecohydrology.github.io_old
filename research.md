@@ -9,3 +9,5 @@ aside: false
 * Nutrient Cycling in Agroecosystems
 
 ![][assets/RiverCont.png]
+
+<img src="{{site.baseurl}}/assets/RiverCont.jpg">

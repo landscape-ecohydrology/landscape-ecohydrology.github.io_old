@@ -10,4 +10,4 @@ aside: false
 
 ![][assets/RiverCont.png]
 
-<img src="{{site.baseurl}}/assets/RiverCont.jpg">
+<img src="landscape-ecohydrology.github.io/assets/RiverCont.jpg">

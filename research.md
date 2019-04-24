@@ -8,4 +8,4 @@ aside: false
 * Persistence of Contaminants in Hyporheic Zones
 * Nutrient Cycling in Agroecosystems
 
-![useful image]({{ site.url }}/assets/RiverCont.png)
+![useful image](assets/RiverCont.png)

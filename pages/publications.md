@@ -1,12 +1,14 @@
 ---
-layout: page-fullwidth
-title: "Theme Documentation"
-subheadline: "How to use Feeling Responsive"
-teaser: "The documentation is a work in progress..."
-permalink: "/documentation/"
+layout: page
+title: "Publications"
+meta_title: "Feeling Responsive Theme Changelog"
+subheadline: "Feeling Responsive Theme Changelog"
+teaser: "History and changelog of Feeling Responsive Theme"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "header_unsplash_9.jpg"
+permalink: "/publications/"
 ---
+
 
 
 

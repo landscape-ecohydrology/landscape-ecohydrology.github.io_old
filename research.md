@@ -15,7 +15,7 @@ aside: false
 ![riverhypo](assets/RiverCont.png)
 
 
-[![riverhypo](assets/RiverCont.png)](publications)
+[![riverhypo](assets/RiverCont.png)](https://landscape-ecohydrology.github.io/publications/)
 
 
 

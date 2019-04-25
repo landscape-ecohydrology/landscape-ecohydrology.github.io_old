@@ -1,4 +1,5 @@
 ---
+layout: noheadpage
 feature_text: |
   ## Current Research
 aside: false

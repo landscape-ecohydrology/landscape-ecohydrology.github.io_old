@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: ndrewtl/airspace-jekyll
 #daviddarnes/alembic
 
 # File excludes

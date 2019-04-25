@@ -14,7 +14,7 @@ aside: false
 ![agroecosystems](assets/Agroecosystem.png)
 ![riverhypo](assets/RiverCont.png)
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Foo]assets/RiverCont.png)](publications)
 
 
 

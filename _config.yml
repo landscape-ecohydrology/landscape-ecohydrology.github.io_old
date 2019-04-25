@@ -1,5 +1,6 @@
 # Set theme
-remote_theme: daviddarnes/alembic
+remote_theme: mmistakes/minimal-mistakes
+#daviddarnes/alembic
 
 # File excludes
 exclude:

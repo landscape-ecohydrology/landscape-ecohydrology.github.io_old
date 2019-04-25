@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Current Research
 aside: false
 ---
-## Current Research
+
 [comment]: # (Wetlandscape Biogeochemistry, Persistence of Contaminants in Hyporheic Zones, Nutrient Cycling in Agroecosystems)
 
 [![wetlandscape](assets/Wetlandscape.png)](https://landscape-ecohydrology.github.io/publications/)

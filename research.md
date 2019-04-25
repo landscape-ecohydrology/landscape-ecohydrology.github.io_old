@@ -15,7 +15,7 @@ aside: false
 ![riverhypo](assets/RiverCont.png)
 
 
-[![Foo](assets/RiverCont.png)](http://google.com.au/)
+[![Foo](assets/RiverCont.png)](publications)
 
 
 

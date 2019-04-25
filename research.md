@@ -1,5 +1,5 @@
 ---
-layout: noheadpage
+layout: categories
 feature_text: |
   ## Current Research
 aside: false

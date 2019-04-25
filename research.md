@@ -15,7 +15,7 @@ aside: false
 ![riverhypo](assets/RiverCont.png)
 
 
-[![Foo](assets/RiverCont.png)](publications.md)
+[![riverhypo](assets/RiverCont.png)](publications)
 
 
 

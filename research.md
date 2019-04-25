@@ -1,7 +1,5 @@
 ---
 layout: categories
-feature_text: |
-  ## Current Research
 aside: false
 ---
 [comment]: # (Wetlandscape Biogeochemistry, Persistence of Contaminants in Hyporheic Zones, Nutrient Cycling in Agroecosystems)

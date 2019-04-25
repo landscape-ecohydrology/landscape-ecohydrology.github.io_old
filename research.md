@@ -12,4 +12,6 @@ aside: false
 
 <img src="landscape-ecohydrology.github.io/assets/RiverCont.jpg">
 
-![image](/assets/RiverCont.jpg)
+![image](assets/RiverCont.jpg)
+
+<img src="assets/RiverCont.jpg" alt="hi" class="inline"/>

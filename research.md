@@ -8,7 +8,9 @@ aside: false
 * Persistence of Contaminants in Hyporheic Zones
 * Nutrient Cycling in Agroecosystems
 
-![][assets/RiverCont.png]
+![](asset/Wetlandscape.png)
+
+![wetlandscape](asset/Wetlandscape.png)
 
 <img src="landscape-ecohydrology.github.io/assets/RiverCont.jpg">
 

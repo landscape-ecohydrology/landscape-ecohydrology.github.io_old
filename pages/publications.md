@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "Publications"
-meta_title: "Feeling Responsive Theme Changelog"
-subheadline: "Feeling Responsive Theme Changelog"
-teaser: "History and changelog of Feeling Responsive Theme"
+meta_title: "Publications"
+subheadline:
+teaser: "If you do not have institutional or personal access to these papers, feel free to contact me to request a reprint."
 header:
-   image_fullwidth: "header_unsplash_9.jpg"
+   image_fullwidth:
 permalink: "/publications/"
 ---
 
